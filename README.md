@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="screenshot.jpg" alt="Project Screenshot" width="80%">
+  <img src="screenshot.png" alt="Project Screenshot" width="80%">
 </p>
 
 ---
